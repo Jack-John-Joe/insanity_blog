@@ -2,7 +2,7 @@
 title: 'Brand new INSANITY Blog'
 excerpt: 'why are you reading this..'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: 'bro you dont care'
 author:
   name: Jack
   picture: '/assets/blog/authors/jj.jpeg'
